@@ -32,5 +32,6 @@ Also by looking at the received rewards over the epochs, one can see that after 
 ![alt text][image3]
 
 Same with the steps taken,one can see the increase in taken steps. which happens, since the game doesnt get stopped earlier by failing.
+
 ![alt text][image4]
 
