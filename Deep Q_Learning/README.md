@@ -6,4 +6,4 @@
 
 Learning Curve after 4000 Epochs and and exponentially epsilon Greedy
 
-[!alt][image1]
+![alt text][image1]
