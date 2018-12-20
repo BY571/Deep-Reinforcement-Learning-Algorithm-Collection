@@ -17,6 +17,6 @@ Learning Curve after 4000 Epochs and and exponentially epsilon Greedy
 
 
 ### Youtube Video:
-
+[Deep Q-Network plays Cart Pole](https://www.youtube.com/watch?v=9g2ZLPs5Rs0)
 
 
