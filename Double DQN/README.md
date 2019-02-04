@@ -23,7 +23,7 @@ Learning Curve after 4000 Epochs and and exponentially epsilon Greedy
 ## Training to play pong with an Double Deep Q CNN
 I trained a Double Deep Q-Network to play the Atari game Pong. After around 150000 frames it converged and beat its opponent constantly.  Thereby the convolutional neural network trained itself totally on visual inputs. Therefor the input images got converted to black-and-white and 4 images got stacked together so the network is able to recognize the velocity of the ball - which would be much more difficult to guess by only one state/image.  Also the network was trained offline with a memory technique called experienced replay and after each 1000 frames the target network was updated with the weights of the optimized model.
 
-![alt text][image2]
+![alt text][image3]
 
 ### Youtube Video:
 [Double Deep Q Network learns to play Pong](https://www.youtube.com/watch?v=I3dTyg_5rFc)
