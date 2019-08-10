@@ -5,7 +5,7 @@
 
 In this repository I document my path of learning about Reinforcement Learning.
 The goal is to understand, implement and document fundamental algorithms of Deep Reinforcement Learning.
-Starting with Q-Learning (Table) going to Deep Q-Learning with several extensions (Experience Replay, Action Selection...) and in the end approching state of the art Deep Reinforcement Algorithms like A3C, A2C, PPO, TRPO, DDPG, D4PG.
+Starting with Q-Learning (Table) going to Deep Q-Learning with several extensions (Experience Replay, Action Selection...) and in the end approching state of the art Deep Reinforcement Algorithms like A3C, A2C, PPO, TRPO, DDPG, D4PG and Multi-Agent DRL.
 The algorithms are implemented in Python with the Deep Learning library Pytorch and tested in the Open Ai gym.
 
 Below a list of Jupyter Notebooks with implementations
@@ -89,6 +89,8 @@ D4PG [TODO]
 
 gae* = Generalized Advanted Estimation [Source]
 ________________________________________________
+
+# Multi-Agent Deep Reinforcement Learning
 
 # Hyperparameter Tuning
 
