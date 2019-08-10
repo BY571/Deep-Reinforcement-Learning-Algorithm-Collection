@@ -14,16 +14,16 @@ Below a list of Jupyter Notebooks with implementations
 ## Discrete Action Space
 
 Q-Table-Learning
-[Source/Paper]
+[Source/Paper](/Paper/DQN.pdf)
 
 DQN
-[Source/Paper]
+[Paper](/Paper/DQN.pdf)
 
 Double DQN
-[Source/Paper]
+[Paper](/Paper/Double_DQN.pdf)
 
 Dueling DQN
-[Source/Paper]
+[Paper](/Paper/Dueling.pdf)
 
 Distributional DQN [TODO]
 [Source/Paper]
@@ -47,7 +47,7 @@ Vanilla Policy Gradient
 
 
 A2C
-[Source/Paper]
+[Paper](/Paper/A3C.pdf)
 
 A2C with gae* [TODO]
 
@@ -55,7 +55,7 @@ A2C multi environment
 
 
 PPO
-[Source/Paper]
+[Paper](/Paper/PPO.pdf)
 
 PPO with gae*
 
@@ -87,7 +87,7 @@ DDPG
 D4PG [TODO]
 [Source/Paper]
 
-gae* = Generalized Advanted Estimation [Source]
+gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
 ________________________________________________
 
 # Multi-Agent Deep Reinforcement Learning
