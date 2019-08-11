@@ -13,17 +13,13 @@ Below a list of Jupyter Notebooks with implementations
 # Value Based / Offline Methods
 ## Discrete Action Space
 
-Q-Table-Learning
-[Source/Paper](/Paper/DQN.pdf)
+- [Q-Learning](Q_Learning) &emsp;&emsp;&emsp; [Source/Paper](/Paper/DQN.pdf)
 
-DQN
-[Paper](/Paper/DQN.pdf)
+- [DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Deep%20Q_Learning) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/DQN.pdf)
 
-Double DQN
-[Paper](/Paper/Double_DQN.pdf)
+- [Double DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Double%20DQN) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Double_DQN.pdf)
 
-Dueling DQN
-[Paper](/Paper/Dueling.pdf)
+- [Dueling DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Dueling%20Deep%20Q-Network) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Dueling.pdf)
 
 Distributional DQN [TODO]
 [Source/Paper]
