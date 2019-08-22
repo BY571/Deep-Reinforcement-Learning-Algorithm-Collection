@@ -71,7 +71,7 @@ A2C with gae* [TODO]
 
 PPO with gae*
 
-[PPO multi environment]((https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
+[PPO multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
 
 
 
