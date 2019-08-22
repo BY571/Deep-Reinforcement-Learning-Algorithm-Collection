@@ -60,23 +60,23 @@ PPO multi environment
 
 ## Continuous Action Space
 
-A2C
+[A2C](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/A2C_conti_seperate_networks.ipynb)
 
 A2C with gae* [TODO]
 
-A2C multi environment
+[A2C multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/A2C_continuous_multienv.ipynb)
 
 
 [PPO](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
 
 PPO with gae*
 
-PPO multi environment
+[PPO multi environment]((https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
 
 
 
 
-DDPG
+[DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
 [Source/Paper]
 
 
@@ -87,6 +87,8 @@ gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
 ________________________________________________
 
 # Multi-Agent Deep Reinforcement Learning
+
+[Multi-Agent-DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P3-Multiagent-RL-)
 
 # Hyperparameter Tuning
 
