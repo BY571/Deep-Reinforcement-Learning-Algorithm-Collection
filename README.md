@@ -24,8 +24,8 @@ Below a list of Jupyter Notebooks with implementations
 Distributional DQN [TODO]
 [Source/Paper]
 
-Noisy DQN [TODO]
-[Source/Paper]
+- [Noisy DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Noisy_DQN.ipynb)
+&emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Noisy_networks.pdf)
 
 Rainbow [TODO]
 [Source/Paper]
