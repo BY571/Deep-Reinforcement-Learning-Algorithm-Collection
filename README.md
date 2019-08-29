@@ -21,66 +21,66 @@ Below a list of Jupyter Notebooks with implementations
 
 - [Dueling DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Dueling%20Deep%20Q-Network) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Dueling.pdf)
 
-Distributional DQN [TODO]
+- Distributional DQN [TODO]
 [Source/Paper]
 
 - [Noisy DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Noisy_DQN.ipynb)
 &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Noisy_networks.pdf)
 
-Rainbow [TODO]
+- Rainbow [TODO]
 [Source/Paper]
 
 # Policy Based / Online Methods
 ## Discrete Action Space
 
 
-Sarsa
+- Sarsa
 [Source/Paper]
 
 
-Vanilla Policy Gradient
+- Vanilla Policy Gradient
 [Source/Paper]
 
 
-A2C
+- A2C
 [Paper](/Paper/A3C.pdf)
 
-A2C with gae* [TODO]
+- A2C with gae* [TODO]
 
-A2C multi environment
+- A2C multi environment
 
 
-PPO
+- PPO
 [Paper](/Paper/PPO.pdf)
 
-PPO with gae*
+- PPO with gae*
 
-PPO multi environment
+- PPO multi environment
 
 
 ## Continuous Action Space
 
-[A2C](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/A2C_conti_seperate_networks.ipynb)
+- [A2C](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/A2C_conti_seperate_networks.ipynb)
 
-A2C with gae* [TODO]
+- A2C with gae* [TODO]
 
-[A2C multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/A2C_continuous_multienv.ipynb)
-
-
-[PPO](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
-
-[PPO with gae*](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/ROBOSCHOOL_PPO_GAE.ipynb)
-
-[PPO multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
+- [A2C multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/A2C_continuous_multienv.ipynb)
 
 
+- [PPO](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
+
+- [PPO with gae*](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/ROBOSCHOOL_PPO_GAE.ipynb)
+
+- [PPO multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
 
 
-[DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
+
+
+- [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
 [Source/Paper]
 
 
-D4PG [TODO]
+- D4PG [TODO]
 [Source/Paper]
 
 gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
@@ -88,7 +88,7 @@ ________________________________________________
 
 # Multi-Agent Deep Reinforcement Learning
 
-[Multi-Agent-DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P3-Multiagent-RL-)
+- [Multi-Agent-DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P3-Multiagent-RL-)
 
 # Hyperparameter Tuning
 
