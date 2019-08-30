@@ -21,7 +21,7 @@ Below a list of Jupyter Notebooks with implementations
 
 - [Dueling DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Dueling%20Deep%20Q-Network) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Dueling.pdf)
 
-- [N-Step DQN]( )
+- [N-Step DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Nstep_DQN.ipynb)
 
 - Distributional DQN [TODO]
 [Source/Paper]
