@@ -23,8 +23,7 @@ Below a list of Jupyter Notebooks with implementations
 
 - [N-Step DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Nstep_DQN.ipynb)
 
-- Distributional DQN [TODO]
-[Source/Paper]
+- [Categorical DQN - C51](https://github.com/BY571/Reinforcement-Learning/blob/master/Categorical_DQN.ipynb) &emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/Distributional%20DQN.pdf)
 
 - [Noisy DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Noisy_DQN.ipynb)
 &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Noisy_networks.pdf)
