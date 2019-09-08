@@ -39,7 +39,7 @@ Below a list of Jupyter Notebooks with implementations
 [Source/Paper]
 
 
-- Vanilla Policy Gradient
+- [Vanilla Policy Gradient](https://github.com/BY571/Reinforcement-Learning/blob/master/Policy%20Gradient%20Algorithms/Policy_Gradien_%2B_Baseline_mean.ipynb)
 [Source/Paper]
 
 
