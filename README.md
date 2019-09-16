@@ -87,6 +87,13 @@ Below a list of Jupyter Notebooks with implementations
 gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
 ________________________________________________
 
+# Black-Box Optimization
+
+- [Evolution Strategies]() [with mulit processing]()
+
+- [Genetic Algorithm]() 
+
+
 # Multi-Agent Deep Reinforcement Learning
 
 - [Multi-Agent-DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P3-Multiagent-RL-)
