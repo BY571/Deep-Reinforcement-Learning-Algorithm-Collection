@@ -25,9 +25,6 @@ class Network(nn.Module):
     def forward(self, x):
         return self.net(x)
 
-#class Agent():
-#    def __init__(self, ):
-
 def evaluate(env, net):
     """
     Plays a round of the game and returns the obtained reward
