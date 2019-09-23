@@ -56,6 +56,8 @@ _________________________________________________
 
 - PPO with gae*
 
+- [PPO with gae and curiosity driven exploration (single)](https://github.com/BY571/Reinforcement-Learning/blob/master/PPO_gae_curios.ipynb) [Paper](/Paper/)
+
 - PPO multi environment
 
 
