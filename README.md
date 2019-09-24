@@ -39,7 +39,7 @@ _________________________________________________
 [Source/Paper]
 
 
-- [Vanilla Policy Gradient](https://github.com/BY571/Reinforcement-Learning/blob/master/Policy%20Gradient%20Algorithms/Policy_Gradien_%2B_Baseline_mean.ipynb)
+- [Vanilla Policy Gradient](https://github.com/BY571/Reinforcement-Learning/blob/master/Policy%20Gradient%20Algorithms/Policy_Gradien_%2B_Baseline_mean.ipynb) [+LSTM](https://github.com/BY571/Reinforcement-Learning/blob/master/Policy%20Gradient%20Algorithms/PolicyGradient_LSTM.ipynb)
 [Source/Paper]
 
 
