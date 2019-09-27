@@ -72,7 +72,9 @@ _________________________________________________
 
 - [PPO](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
 
-- [PPO with gae*](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/ROBOSCHOOL_PPO_GAE.ipynb) [+curiosity&single](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_conti_gae_curios.ipynb)[+curiosity&multi](https://github.com/BY571/Reinforcement-Learning/blob/master/PPO_conti_gae_curio_multi.ipynb)
+- [PPO with gae*](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/ROBOSCHOOL_PPO_GAE.ipynb)[PPO with gae multi](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_conti_gae_multi.ipynb)
+
+- [PPO+curiosity&single](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_conti_gae_curios.ipynb)[+curiosity&multi](https://github.com/BY571/Reinforcement-Learning/blob/master/PPO_conti_gae_curio_multi.ipynb)
 
 - [PPO multi environment](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/PPO_unity_Crawler.ipynb)
 
