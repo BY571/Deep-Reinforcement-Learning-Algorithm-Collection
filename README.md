@@ -30,6 +30,21 @@ Below a list of Jupyter Notebooks with implementations
 
 - Rainbow [TODO]
 [Source/Paper]
+
+## Continuous Action Space
+
+- [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
+[Source/Paper]
+
+
+- D4PG [TODO]
+[Source/Paper]
+
+- TD3 [TODO]
+[Source/Paper]
+
+- SAC [TODO]
+[Source/Paper]
 _________________________________________________
 # Policy Based / Online Methods
 ## Discrete Action Space
@@ -80,13 +95,6 @@ _________________________________________________
 
 
 
-
-- [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
-[Source/Paper]
-
-
-- D4PG [TODO]
-[Source/Paper]
 
 gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
 ________________________________________________
