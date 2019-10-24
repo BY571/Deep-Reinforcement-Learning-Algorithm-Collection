@@ -41,7 +41,7 @@ Below a list of Jupyter Notebooks with implementations
 - D4PG [TODO]
 [Source/Paper]
 
-- TD3 [TODO]
+- [TD3](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/TD3_conti.ipynb)
 [Source/Paper]
 
 - SAC [TODO]
