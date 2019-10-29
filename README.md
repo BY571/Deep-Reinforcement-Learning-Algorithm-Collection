@@ -42,10 +42,10 @@ Below a list of Jupyter Notebooks with implementations
 [Source/Paper]
 
 - [Twin Delayed DDPG (TD3)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/TD3_conti.ipynb)
-[Source/Paper]
+&emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/TD3.pdf)
 
 - [Soft Actor Critic (SAC-newest 2019 version)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/SAC.ipynb)
-[Source/Paper]
+&emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/SAC_2019.pdf)
 _________________________________________________
 # Policy Based / Online Methods
 ## Discrete Action Space
