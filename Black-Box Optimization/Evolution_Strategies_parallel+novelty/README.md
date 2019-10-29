@@ -30,6 +30,3 @@ Evolution Strategies solving Pendulum:
 
 ![alt_text](imgs/pendulum.png)
 
-
-
-### INFO: Could not solve the damper env yet. Probably caused to problems with the environment.
