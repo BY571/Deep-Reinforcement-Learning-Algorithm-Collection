@@ -102,10 +102,10 @@ ________________________________________________
 
 # Black-Box Optimization
 
-- [Evolution Strategies]() [with mulit processing]()
+- [Evolution Strategies]() [with mulit processing](https://github.com/BY571/Reinforcement-Learning/blob/master/Black-Box%20Optimization/Evolution_Strategies_parallel+novelty/README.md) [and novelty search](https://github.com/BY571/Reinforcement-Learning/blob/master/Black-Box%20Optimization/Evolution_Strategies_parallel+novelty/README.md)
 
 - [Genetic Algorithm - GARNE](https://github.com/BY571/GARNE-Genetic-Algorithm-with-Recurrent-Network-and-Novelty-Exploration/blob/master/README.md) 
-
+  - Genetic Algorithm implementation with LSTM, Multiprocessing over several CPUs and Novelty Search for Exploration
 __________________________________________
 # Multi-Agent Deep Reinforcement Learning
 
