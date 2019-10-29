@@ -104,7 +104,7 @@ ________________________________________________
 
 - [Evolution Strategies]() [with mulit processing]()
 
-- [Genetic Algorithm]() 
+- [Genetic Algorithm - GARNE](https://github.com/BY571/GARNE-Genetic-Algorithm-with-Recurrent-Network-and-Novelty-Exploration/blob/master/README.md) 
 
 __________________________________________
 # Multi-Agent Deep Reinforcement Learning
