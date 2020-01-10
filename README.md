@@ -100,6 +100,10 @@ _________________________________________________
 gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
 ________________________________________________
 
+# Upside-Down-Reinforcement-Learning
+Discrete action space implementation of [⅂ꓤ](https://github.com/BY571/Upside-Down-Reinforcement-Learning)
+
+
 # Black-Box Optimization
 
 - [Evolution Strategies]() [with mulit processing](https://github.com/BY571/Reinforcement-Learning/blob/master/Black-Box%20Optimization/Evolution_Strategies_parallel+novelty/README.md) [and novelty search](https://github.com/BY571/Reinforcement-Learning/blob/master/Black-Box%20Optimization/Evolution_Strategies_parallel+novelty/README.md)
