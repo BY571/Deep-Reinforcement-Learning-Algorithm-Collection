@@ -20,16 +20,16 @@ Below a list of Jupyter Notebooks with implementations
 
 - [Double DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Double%20DQN) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Double_DQN.pdf)
 
-- [Dueling DQN](https://github.com/BY571/Reinforcement-Learning/tree/master/Dueling%20Deep%20Q-Network) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Dueling.pdf)
+- [Dueling DQN](https://github.com/BY571/DQN-Atari-Agents) &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Dueling.pdf)
 
-- [N-Step DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Nstep_DQN.ipynb)
+- [N-Step DQN](https://github.com/BY571/DQN-Atari-Agents)
 
-- [Categorical DQN - C51](https://github.com/BY571/Reinforcement-Learning/blob/master/Categorical_DQN.ipynb) &emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/Distributional%20DQN.pdf)
+- [Categorical DQN - C51](https://github.com/BY571/DQN-Atari-Agents) &emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/Distributional%20DQN.pdf)
 
-- [Noisy DQN](https://github.com/BY571/Reinforcement-Learning/blob/master/Noisy_DQN.ipynb)
+- [Noisy DQN](https://github.com/BY571/DQN-Atari-Agents)
 &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Noisy_networks.pdf)
 
-- Rainbow [TODO]
+- [Rainbow](https://github.com/BY571/DQN-Atari-Agents)
 [Source/Paper]
 
 ## Continuous Action Space
