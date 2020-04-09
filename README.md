@@ -30,7 +30,7 @@ Below a list of Jupyter Notebooks with implementations
 &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Noisy_networks.pdf)
 
 - [Rainbow](https://github.com/BY571/DQN-Atari-Agents)
-&emsp;&emsp;&emsp;&emsp;[Paper] (https://arxiv.org/pdf/1710.02298.pdf)
+&emsp;&emsp;&emsp;&emsp;[Paper](https://arxiv.org/pdf/1710.02298.pdf)
 
 ## Continuous Action Space
 
