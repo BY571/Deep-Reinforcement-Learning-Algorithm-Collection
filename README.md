@@ -37,6 +37,7 @@ Below a list of Jupyter Notebooks with implementations
 - [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
 [Source/Paper]
 
+- [NAF - Normalized Advantage Function](https://github.com/BY571/Normalized-Advantage-Function-NAF-)
 
 - D4PG [TODO]
 [Source/Paper]
