@@ -3,11 +3,8 @@
 
 ![Logo](/imgs/web-3706562_640.jpg)
 
-In this repository I document my path of learning about Reinforcement Learning.
-The goal is to understand, implement and document fundamental algorithms of Deep Reinforcement Learning.
-Starting with Q-Learning (Table) going to Deep Q-Learning with several extensions (Experience Replay, n-step, C51 ...) and in the end approching state of the art Deep Reinforcement Learning Algorithms like A3C, A2C, PPO, TRPO, DDPG, D4PG and SAC. As well covering topics of Multi-Agent DRL and Black-Box Optimization. The current focus lays on model free algorithms but in the future i will try to study and implement some model based algorithms.
+Collection of Deep Reinforcement Learning Algorithms in PyTorch.
 
-All algorithms are implemented in Python with the Deep Learning library Pytorch and tested in the Open Ai gym.
 
 Below a list of Jupyter Notebooks with implementations
 
@@ -34,19 +31,9 @@ Below a list of Jupyter Notebooks with implementations
 
 ## Continuous Action Space
 
-- [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
-[Source/Paper]
-
 - [NAF - Normalized Advantage Function](https://github.com/BY571/Normalized-Advantage-Function-NAF-)
 
-- D4PG [TODO]
-[Source/Paper]
-
-- [Twin Delayed DDPG (TD3)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/TD3_conti.ipynb)
-&emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/TD3.pdf)
-
-- [Soft Actor Critic (SAC-newest 2019 version)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/SAC.ipynb)
-&emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/SAC_2019.pdf)
+-[Soft-DQN] TODO
 _________________________________________________
 # Policy Based / Online Methods
 ## Discrete Action Space
@@ -99,11 +86,33 @@ _________________________________________________
 
 
 gae* = Generalized Advanted Estimation [Source](/Paper/GAE.pdf)
+
+______________________________________________
+
+# Actor-Critic Algorithms 
+
+- [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
+[Source/Paper]
+
+- D4PG [TODO]
+[Source/Paper]
+
+- [Twin Delayed DDPG (TD3)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/TD3_conti.ipynb)
+&emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/TD3.pdf)
+
+- [Soft Actor Critic (SAC-newest 2019 version)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/SAC.ipynb)
+&emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/SAC_2019.pdf)
+
 ________________________________________________
 
 # Upside-Down-Reinforcement-Learning
-Discrete action space implementation of [⅂ꓤ](https://github.com/BY571/Upside-Down-Reinforcement-Learning)
+Discrete and continuous action space implementation of [⅂ꓤ](https://github.com/BY571/Upside-Down-Reinforcement-Learning)
 
+________________________________________________
+
+# Model-Based RL
+
+__________________________________________________
 
 # Black-Box Optimization
 
