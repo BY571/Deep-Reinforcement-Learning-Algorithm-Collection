@@ -21,13 +21,22 @@ Below a list of Jupyter Notebooks with implementations
 
 - [N-Step DQN](https://github.com/BY571/DQN-Atari-Agents)
 
-- [Categorical DQN - C51](https://github.com/BY571/DQN-Atari-Agents) &emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/Distributional%20DQN.pdf)
-
 - [Noisy DQN](https://github.com/BY571/DQN-Atari-Agents)
 &emsp;&emsp;&emsp;&emsp; [Paper](/Paper/Noisy_networks.pdf)
 
 - [Rainbow](https://github.com/BY571/DQN-Atari-Agents)
 &emsp;&emsp;&emsp;&emsp;[Paper](https://arxiv.org/pdf/1710.02298.pdf)
+
+## Distributional RL 
+
+- [Categorical DQN - C51](https://github.com/BY571/DQN-Atari-Agents) &emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/Distributional%20DQN.pdf)
+
+- [QR-DQN](https://github.com/BY571/QR-DQN)
+
+- [IQN](https://github.com/BY571/IQN-and-Extensions)
+
+- [FQF](https://github.com/BY571/FQF-and-Extensions)
+
 
 ## Continuous Action Space
 
@@ -107,6 +116,20 @@ ________________________________________________
 
 # Upside-Down-Reinforcement-Learning
 Discrete and continuous action space implementation of [⅂ꓤ](https://github.com/BY571/Upside-Down-Reinforcement-Learning)
+
+________________________________________________
+# Munchausen Reinforcement Learning
+
+Implementierungen von Munchausen RL
+
+- [M-DQN](https://github.com/BY571/Munchausen-RL)
+
+- [M-IQN](https://github.com/BY571/IQN-and-Extensions)
+
+- [M-FQF](https://github.com/BY571/FQF-and-Extensions)
+
+- [M-SAC](https://github.com/BY571/Soft-Actor-Critic-and-Extensions)
+
 
 ________________________________________________
 
