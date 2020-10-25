@@ -103,8 +103,8 @@ ______________________________________________
 - [DDPG](https://github.com/BY571/Udacity-DRL-Nanodegree-P2)
 [Source/Paper]
 
-- D4PG [TODO]
-[Source/Paper]
+- [D4PG](https://github.com/BY571/D4PG)
+[Source/Paper](https://arxiv.org/pdf/1804.08617.pdf)
 
 - [Twin Delayed DDPG (TD3)](https://github.com/BY571/Reinforcement-Learning/blob/master/ContinousControl/TD3_conti.ipynb)
 &emsp;&emsp;&emsp;&emsp;[Paper](https://github.com/BY571/Reinforcement-Learning/blob/master/Paper/TD3.pdf)
